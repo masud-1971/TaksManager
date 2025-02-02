@@ -1,0 +1,32 @@
+1.  Project File Structure
+        Folder: app
+                    congig
+                        config.js
+                    controller
+                        TaskController.js
+                        UsersController.js
+                    middlewares
+                        AuthMiddleware.js
+                    model
+                        TaksModel.js
+                        UsersModel.js
+                    utility
+                        emailUtility.js
+                        tokenUtility.js
+                routes
+                    api.js
+
+                app.js
+
+
+2.  Project Packages
+        npm i cors
+        npm i express
+        npm i express-rate-limit
+        npm i helmet
+        npm i jsonwebtoken
+        npm i nodemailer
+        npm i mongoose
+        npm i nodemon
+
+3.  Route Configuration
